@@ -1,0 +1,408 @@
+ 0
+ 17
+ 104
+ Actual line
+ C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\ConcordanceConverter\ConcordanceConverter\bin\Debug\sortedCanonList.txt
+ 7/6/2011 10:30:01 PM
+ Program copyright (c) R.J.C. Watt 1998, 2001. All rights reserved.
+ "#$&'*+-/0123456789<=>ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]_`abcdefghijklmnopqrstuvwxyz{}ÅÉÖáçô°§™´≠±≤≥µ∑∏π∫ªºΩø¬√ƒ≈Ã·ÔÒ˛ˇ
+A
+
+2 4 5 4 5
+   a a k   s i m h   
+A
+
+2 6 7 6 7
+   a a k   s i m h   
+A
+
+3 4 5 4 5
+   a a g g i n   
+A
+
+3 6 7 6 7
+   a a g g i n   
+A
+
+4 4 5 4 5
+   a a t o 
+A
+
+4 6 7 6 7
+   a a t o 
+A
+
+5 4 5 4 5
+   a a t h a 
+A
+
+5 6 7 6 7
+   a a t h a 
+A
+
+5 12 13 12 13
+   a a t h a 
+A
+
+6 4 5 4 5
+   a a n o m a v a G G o 
+A
+
+6 6 7 6 7
+   a a n o m a v a G G o 
+A
+
+6 14 15 14 15
+   a a n o m a v a G G o 
+A
+
+6 18 19 18 19
+   a a n o m a v a G G o 
+A
+
+7 4 5 4 5
+   a a n t   
+A
+
+7 6 7 6 7
+   a a n t   
+A
+
+8 4 5 4 5
+   a a s i n e c c h a t i 
+A
+
+8 6 7 6 7
+   a a s i n e c c h a t i 
+A
+
+8 22 23 22 23
+   a a s i n e c c h a t i 
+A
+
+9 4 5 4 5
+   a   
+A
+
+10 4 5 4 5
+   a   g a m o 
+A
+
+10 10 11 10 11
+   a   g a m o 
+A
+
+11 4 5 4 5
+   a   d a y o 
+A
+
+11 10 11 10 11
+   a   d a y o 
+A
+
+12 4 5 4 5
+   a   d a y o t i 
+A
+
+12 10 11 10 11
+   a   d a y o t i 
+A
+
+13 4 5 4 5
+   a   d a s u 
+A
+
+13 10 11 10 11
+   a   d a s u 
+A
+
+14 4 5 4 5
+   a   d i 
+A
+
+15 4 5 4 5
+   a   d i t t   d i 
+A
+
+16 4 5 4 5
+   a   d i p a c c a y a r   s i 
+A
+
+16 14 15 14 15
+   a   d i p a c c a y a r   s i 
+A
+
+16 20 21 20 21
+   a   d i p a c c a y a r   s i 
+A
+
+16 24 25 24 25
+   a   d i p a c c a y a r   s i 
+A
+
+17 4 5 4 5
+   a   d i p a c c a y e 
+A
+
+17 14 15 14 15
+   a   d i p a c c a y e 
+C
+
+8 16 17 16 17
+   a a s i n e c c h a t i 
+C
+
+8 18 19 18 19
+   a a s i n e c c h a t i 
+C
+
+16 16 17 16 17
+   a   d i p a c c a y a r   s i 
+C
+
+16 18 19 18 19
+   a   d i p a c c a y a r   s i 
+D
+
+11 8 9 8 9
+   a   d a y o 
+D
+
+12 8 9 8 9
+   a   d a y o t i 
+D
+
+13 8 9 8 9
+   a   d a s u 
+D
+
+14 8 9 8 9
+   a   d i 
+D
+
+15 8 9 8 9
+   a   d i t t   d i 
+D
+
+15 18 19 18 19
+   a   d i t t   d i 
+D
+
+16 8 9 8 9
+   a   d i p a c c a y a r   s i 
+D
+
+17 8 9 8 9
+   a   d i p a c c a y e 
+E
+
+8 14 15 14 15
+   a a s i n e c c h a t i 
+G
+
+3 8 9 8 9
+   a a g g i n   
+G
+
+3 10 11 10 11
+   a a g g i n   
+G
+
+6 20 21 20 21
+   a a n o m a v a G G o 
+G
+
+6 22 23 22 23
+   a a n o m a v a G G o 
+G
+
+10 8 9 8 9
+   a   g a m o 
+H
+
+2 18 19 18 19
+   a a k   s i m h   
+H
+
+5 10 11 10 11
+   a a t h a 
+H
+
+8 20 21 20 21
+   a a s i n e c c h a t i 
+I
+
+2 14 15 14 15
+   a a k   s i m h   
+I
+
+3 12 13 12 13
+   a a g g i n   
+I
+
+8 10 11 10 11
+   a a s i n e c c h a t i 
+I
+
+8 26 27 26 27
+   a a s i n e c c h a t i 
+I
+
+12 18 19 18 19
+   a   d a y o t i 
+I
+
+14 10 11 10 11
+   a   d i 
+I
+
+15 10 11 10 11
+   a   d i t t   d i 
+I
+
+15 20 21 20 21
+   a   d i t t   d i 
+I
+
+16 10 11 10 11
+   a   d i p a c c a y a r   s i 
+I
+
+16 32 33 32 33
+   a   d i p a c c a y a r   s i 
+I
+
+17 10 11 10 11
+   a   d i p a c c a y e 
+K
+
+2 8 9 8 9
+   a a k   s i m h   
+M
+
+2 16 17 16 17
+   a a k   s i m h   
+M
+
+6 12 13 12 13
+   a a n o m a v a G G o 
+M
+
+10 12 13 12 13
+   a   g a m o 
+N
+
+3 14 15 14 15
+   a a g g i n   
+N
+
+6 8 9 8 9
+   a a n o m a v a G G o 
+N
+
+7 8 9 8 9
+   a a n t   
+N
+
+8 12 13 12 13
+   a a s i n e c c h a t i 
+O
+
+4 10 11 10 11
+   a a t o 
+O
+
+6 10 11 10 11
+   a a n o m a v a G G o 
+O
+
+6 24 25 24 25
+   a a n o m a v a G G o 
+O
+
+10 14 15 14 15
+   a   g a m o 
+O
+
+11 14 15 14 15
+   a   d a y o 
+O
+
+12 14 15 14 15
+   a   d a y o t i 
+P
+
+16 12 13 12 13
+   a   d i p a c c a y a r   s i 
+P
+
+17 12 13 12 13
+   a   d i p a c c a y e 
+R
+
+16 26 27 26 27
+   a   d i p a c c a y a r   s i 
+S
+
+2 12 13 12 13
+   a a k   s i m h   
+S
+
+8 8 9 8 9
+   a a s i n e c c h a t i 
+S
+
+13 12 13 12 13
+   a   d a s u 
+S
+
+16 30 31 30 31
+   a   d i p a c c a y a r   s i 
+T
+
+4 8 9 8 9
+   a a t o 
+T
+
+5 8 9 8 9
+   a a t h a 
+T
+
+7 10 11 10 11
+   a a n t   
+T
+
+8 24 25 24 25
+   a a s i n e c c h a t i 
+T
+
+12 16 17 16 17
+   a   d a y o t i 
+T
+
+15 12 13 12 13
+   a   d i t t   d i 
+T
+
+15 14 15 14 15
+   a   d i t t   d i 
+U
+
+13 14 15 14 15
+   a   d a s u 
+V
+
+6 16 17 16 17
+   a a n o m a v a G G o 
+Y
+
+11 12 13 12 13
+   a   d a y o 
+Y
+
+12 12 13 12 13
+   a   d a y o t i 
+Y
+
+16 22 23 22 23
+   a   d i p a c c a y a r   s i 

@@ -1,0 +1,408 @@
+ 11
+ 12
+ 720
+ Actual line
+ C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\ConcordanceConverter\ConcordanceConverter\bin\Debug\sortedReady.txt
+ 7/6/2011 10:28:55 PM
+ Program copyright (c) R.J.C. Watt 1998, 2001. All rights reserved.
+ "#$&'*+-/0123456789<=>ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]_`abcdefghijklmnopqrstuvwxyz{}�������������������������������
+'A'
+
+1 73 76 73 76
+﻿INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'a');
+'AAGGINā'
+
+3 70 80 70 80
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aagginā');
+'AAKāSIMHā'
+
+2 70 83 70 83
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aakāsimhā');
+'AANOMAVA������O'
+
+6 70 87 70 87
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aanomavaṇṇo');
+'AANTā'
+
+7 70 78 70 78
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aantā');
+'AASINECCHATI'
+
+8 70 84 70 84
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aasinecchati');
+'AATHA'
+
+5 70 77 70 77
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aatha');
+'AATO'
+
+4 70 76 70 76
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aato');
+'Aā'
+
+9 70 75 70 75
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aā');
+'AāDAYO'
+
+11 70 79 70 79
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayo');
+'AāGAMO'
+
+10 70 79 70 79
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aāgamo');
+INSERT
+
+2 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aakāsimhā');
+INSERT
+
+3 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aagginā');
+INSERT
+
+4 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aato');
+INSERT
+
+5 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aatha');
+INSERT
+
+6 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aanomavaṇṇo');
+INSERT
+
+7 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aantā');
+INSERT
+
+8 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aasinecchati');
+INSERT
+
+9 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aā');
+INSERT
+
+10 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aāgamo');
+INSERT
+
+11 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayo');
+INSERT
+
+12 1 7 1 7
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayoti');
+INTO
+
+1 11 15 11 15
+﻿INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'a');
+INTO
+
+2 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aakāsimhā');
+INTO
+
+3 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aagginā');
+INTO
+
+4 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aato');
+INTO
+
+5 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aatha');
+INTO
+
+6 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aanomavaṇṇo');
+INTO
+
+7 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aantā');
+INTO
+
+8 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aasinecchati');
+INTO
+
+9 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aā');
+INTO
+
+10 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aāgamo');
+INTO
+
+11 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayo');
+INTO
+
+12 8 12 8 12
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayoti');
+NULL
+
+1 65 69 65 69
+﻿INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'a');
+NULL
+
+2 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aakāsimhā');
+NULL
+
+3 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aagginā');
+NULL
+
+4 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aato');
+NULL
+
+5 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aatha');
+NULL
+
+6 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aanomavaṇṇo');
+NULL
+
+7 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aantā');
+NULL
+
+8 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aasinecchati');
+NULL
+
+9 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aā');
+NULL
+
+10 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aāgamo');
+NULL
+
+11 62 66 62 66
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayo');
+VALUES
+
+1 57 63 57 63
+﻿INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'a');
+VALUES
+
+2 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aakāsimhā');
+VALUES
+
+3 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aagginā');
+VALUES
+
+4 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aato');
+VALUES
+
+5 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aatha');
+VALUES
+
+6 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aanomavaṇṇo');
+VALUES
+
+7 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aantā');
+VALUES
+
+8 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aasinecchati');
+VALUES
+
+9 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aā');
+VALUES
+
+10 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aāgamo');
+VALUES
+
+11 54 60 54 60
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayo');
+`ID`
+
+1 44 48 44 48
+﻿INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'a');
+`ID`
+
+2 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aakāsimhā');
+`ID`
+
+3 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aagginā');
+`ID`
+
+4 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aato');
+`ID`
+
+5 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aatha');
+`ID`
+
+6 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aanomavaṇṇo');
+`ID`
+
+7 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aantā');
+`ID`
+
+8 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aasinecchati');
+`ID`
+
+9 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aā');
+`ID`
+
+10 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aāgamo');
+`ID`
+
+11 41 45 41 45
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayo');
+`NAME`
+
+1 50 56 50 56
+﻿INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'a');
+`NAME`
+
+2 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aakāsimhā');
+`NAME`
+
+3 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aagginā');
+`NAME`
+
+4 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aato');
+`NAME`
+
+5 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aatha');
+`NAME`
+
+6 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aanomavaṇṇo');
+`NAME`
+
+7 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aantā');
+`NAME`
+
+8 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aasinecchati');
+`NAME`
+
+9 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aā');
+`NAME`
+
+10 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aāgamo');
+`NAME`
+
+11 47 53 47 53
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayo');
+`PALIDB2010`
+
+1 17 29 17 29
+﻿INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'a');
+`PALIDB2010`
+
+2 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aakāsimhā');
+`PALIDB2010`
+
+3 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aagginā');
+`PALIDB2010`
+
+4 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aato');
+`PALIDB2010`
+
+5 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aatha');
+`PALIDB2010`
+
+6 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aanomavaṇṇo');
+`PALIDB2010`
+
+7 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aantā');
+`PALIDB2010`
+
+8 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aasinecchati');
+`PALIDB2010`
+
+9 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aā');
+`PALIDB2010`
+
+10 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aāgamo');
+`PALIDB2010`
+
+11 14 26 14 26
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayo');
+`PALI_TERMS`
+
+1 30 42 30 42
+﻿INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'a');
+`PALI_TERMS`
+
+2 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aakāsimhā');
+`PALI_TERMS`
+
+3 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aagginā');
+`PALI_TERMS`
+
+4 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aato');
+`PALI_TERMS`
+
+5 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aatha');
+`PALI_TERMS`
+
+6 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aanomavaṇṇo');
+`PALI_TERMS`
+
+7 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aantā');
+`PALI_TERMS`
+
+8 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aasinecchati');
+`PALI_TERMS`
+
+9 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aā');
+`PALI_TERMS`
+
+10 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aāgamo');
+`PALI_TERMS`
+
+11 27 39 27 39
+INSERT INTO  `palidb2010`.`pali_terms` (`id` ,`name`)VALUES (NULL ,  'aādayo');
